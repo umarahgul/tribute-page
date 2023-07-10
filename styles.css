@@ -1,0 +1,29 @@
+body{
+    display:block;
+    text-align: center;
+    background-color: rgb(204, 214, 214);
+    
+    
+    
+    }
+    
+    section{
+        text-align: left;
+    }
+    #image{
+    
+        max-width:100%;
+        height:auto;
+        display:block;
+        margin-left: auto;
+        margin-right: auto;
+        
+    }
+    li{
+        padding:10px;
+    }
+    #info{
+        width:300px;
+        margin-left: auto;
+        margin-right: auto;
+    }
